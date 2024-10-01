@@ -1,0 +1,10 @@
+﻿  domaci.c
+D:\etf\Algoritmi_i_strukture\watersort\watersort\domaci.c(38,6): warning C4013: 'prebacivanje' undefined; assuming extern returning int
+D:\etf\Algoritmi_i_strukture\watersort\watersort\domaci.c(116,6): warning C4101: 'rez': unreferenced local variable
+D:\etf\Algoritmi_i_strukture\watersort\watersort\domaci.c(202,3): warning C4033: 'pop' must return a value
+D:\etf\Algoritmi_i_strukture\watersort\watersort\domaci.c(251,6): warning C4101: 'i': unreferenced local variable
+D:\etf\Algoritmi_i_strukture\watersort\watersort\domaci.c(304,18): warning C4013: 'time' undefined; assuming extern returning int
+D:\etf\Algoritmi_i_strukture\watersort\watersort\domaci.c(301,8): warning C4101: 'korisnicka': unreferenced local variable
+D:\etf\Algoritmi_i_strukture\watersort\watersort\domaci.c(26): warning C4715: 'pravljenje_cvora': not all control paths return a value
+D:\etf\Algoritmi_i_strukture\watersort\watersort\domaci.c(204): warning C4715: 'pop': not all control paths return a value
+  watersort.vcxproj -> D:\etf\Algoritmi_i_strukture\watersort\Debug\watersort.exe
